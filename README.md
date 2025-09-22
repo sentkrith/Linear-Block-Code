@@ -94,6 +94,9 @@ add = err + rc
 print(f"The correct codeword is : " + " " .join(map(str,add)))
 ```
 
-# Output:
+# OUTPUT:
 
 <img width="782" height="758" alt="image" src="https://github.com/user-attachments/assets/2fae951d-031f-43d6-b239-2ef075e14df4" />
+
+# RESULT:
+Thus linear block code operation for the given input is successfully verified.
