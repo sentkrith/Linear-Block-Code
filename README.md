@@ -94,11 +94,7 @@ add = err + rc
 print(f"The correct codeword is : " + " " .join(map(str,add)))
 ```
 
+# Output:
 
-
-# Results
-```
-<img width="1919" height="875" alt="image" src="https://github.com/user-attachments/assets/1f76064c-1fa6-40a3-bbb6-254c514174b0" />
-
-```
+<img width="1919" height="878" alt="image" src="https://github.com/user-attachments/assets/f8d0ba0e-7653-4f3e-beee-1c107fc3cc56" />
 
