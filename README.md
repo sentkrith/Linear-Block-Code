@@ -98,6 +98,7 @@ print(f"The correct codeword is : " + " " .join(map(str,add)))
 
 # Results
 ```
-<img width="1919" height="875" alt="image" src="https://github.com/user-attachments/assets/1cec202f-62d1-4eeb-b7d2-dec082d000a2" />
+<img width="1919" height="875" alt="image" src="https://github.com/user-attachments/assets/1f76064c-1fa6-40a3-bbb6-254c514174b0" />
+
 ```
 
